@@ -42,3 +42,12 @@ Each folder has an explanatory `README.md` file
 * `images` will contain your screenshots, diagrams, and photos.
 
 * `lib` will contain any JavaScript library you use. It currently includes D3.
+
+## Workflow
+
+As you work with your team, you may have issues merging your changes. We recommend you pick one member of the team to be the project manager and deal with merging any pull requests.
+
+Instead of all working directly out of the main `gh-pages` branch, you can try adopting a Git branching model for development. See, e.g., [this article by Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/) and the included image:
+
+![Image of Git branching model by VIncent Driessen](git-model.png?raw=true)
+
