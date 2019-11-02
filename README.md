@@ -3,7 +3,7 @@
 This template will help you get started with your project. Please look through all these materials so you know how to organize your project.
 
 ## Setup
-1. Clone this repository to your local machine. E.g., in your terminal / command prompt `CD` to where you want this the folder for this activity to be. Then run `git clone <YOUR_REPO_URL>`
+1. Clone this repository to your local machine. E.g., in your terminal / command prompt `CD` to where you want this the folder for this activity to be. Then run `git clone <YOUR_REPO_URL>`.
 
 1. `CD` or open a terminal / command prompt window into the cloned folder.
 
