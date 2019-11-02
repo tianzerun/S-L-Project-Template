@@ -7,6 +7,9 @@ This template will help you get started with your project. Please look through a
 This website is served automatically from the default `gh-pages` branch at https://northeastern-ds-4200-f19-staff.github.io/S-L-Project-Template/
 
 ## Setup
+
+**Under no circumstances should you be editing files via the GitHub user interface.** Do all your edits locally after cloning.
+
 1. Clone this repository to your local machine. E.g., in your terminal / command prompt `CD` to where you want this the folder for this activity to be. Then run `git clone <YOUR_REPO_URL>`.
 
 1. In `README.md` update the URL above to point to your GitHub pages website. E.g., http://northeastern-ds-4200-f19.github.io/project-team-#-topic where `#` and `topic` are customized.
