@@ -49,5 +49,5 @@ As you work with your team, you may have issues merging your changes. We recomme
 
 Instead of all working directly out of the main `gh-pages` branch, you can try adopting a Git branching model for development. See, e.g., [this article by Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/) and the included image:
 
-![Image of Git branching model by VIncent Driessen](git-model.png?raw=true)
+![Image of Git branching model by VIncent Driessen](http://www.ccs.neu.edu/home/cody/courses/shared/git-model.png)
 
