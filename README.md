@@ -2,7 +2,7 @@
 
 This template will help you get started with your project. Please look through all these materials so you know how to organize your project.
 
-## The associated GitHub Pages website
+## The Associated GitHub Pages Website
 
 This website is served automatically from the default `gh-pages` branch at https://northeastern-ds-4200-f19-staff.github.io/S-L-Project-Template/
 
