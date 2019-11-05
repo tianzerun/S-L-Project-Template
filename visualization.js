@@ -1,8 +1,14 @@
+// Parse survey data
 d3.csv("/data/survey-data.csv").then(function (data) {
     tabulate(data, data.columns)
 });
 
-
+/**
+ * Create D3 table and populate with survey data
+ * 
+ * @param {Object} data 
+ * @param {Object} columns 
+ */
 function tabulate(data, columns) {
     let svg = d3.select("#vis-svg");
     let table = svg.append("foreignObject")
@@ -17,7 +23,7 @@ function tabulate(data, columns) {
         .data(columns)
         .enter()
         .append('th')
-        .attr("style", "font-size:12px")
+        .attr("style", "font-size:12px",)
         .text(function (column) {
             return column
         });
@@ -38,8 +44,8 @@ function tabulate(data, columns) {
         .style('text-align', 'center')
         .style('font-size', '12px')
         .html(function (d) {
-            return d.value
+            return d.value;
         });
 
-    return table
+    return table;
 }
