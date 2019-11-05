@@ -17,6 +17,7 @@ function tabulate(data, columns) {
         .data(columns)
         .enter()
         .append('th')
+        .attr("style", "font-size:12px")
         .text(function (column) {
             return column
         });
@@ -34,6 +35,8 @@ function tabulate(data, columns) {
         })
         .enter()
         .append('td')
+        .style('text-align', 'center')
+        .style('font-size', '12px')
         .html(function (d) {
             return d.value
         });

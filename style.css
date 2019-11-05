@@ -21,6 +21,10 @@ h1, h2, h3 {
   height: 100%;
 }
 
+td {
+	font-size: 5px;
+}
+
 /* Fork on GitHub ribbon via https://codepo8.github.io/css-fork-on-github-ribbon/# */  
 #forkongithub a{
 	background:#00F;
